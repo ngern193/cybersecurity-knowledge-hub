@@ -1,0 +1,21 @@
+site_name: Cyber Security Knowledge Hub
+site_description: Public Cyber Security Knowledge for Society
+site_author: Cyber Security Team
+
+nav:
+  - หน้าแรก: index.md
+  - พื้นฐาน Cyber Security:
+      - Cyber Security ແມ່ນຫຍັງ: fundamentals/what-is-cyber.md
+      - CIA Triad: fundamentals/cia-triad.md
+  - ໄພຄຸກຄາມ:
+      - Phishing: threats/phishing.md
+      - Ransomware: threats/ransomware.md
+  - Incident Response:
+      - ພາບລວມ IR: incident-response/ir-overview.md
+  - ເຄື່ອງມື:
+      - ANY.RUN: tools/anyrun.md
+  - กກົດໝາຍ ແລະ ນະໂຍບາຍ:
+      - Cyber Crime Law: policy-and-law/cybercrime-law.md
+
+theme:
+  name: readthedocs
