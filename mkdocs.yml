@@ -14,7 +14,7 @@ nav:
       - ພາບລວມ IR: incident-response/ir-overview.md
   - ເຄື່ອງມື:
       - ANY.RUN: tools/anyrun.md
-  - กກົດໝາຍ ແລະ ນະໂຍບາຍ:
+  - ກົດໝາຍ ແລະ ນະໂຍບາຍ:
       - Cyber Crime Law: policy-and-law/cybercrime-law.md
 
 theme:
